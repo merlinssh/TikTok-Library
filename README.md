@@ -43,7 +43,7 @@ To get started using this library follow the instructions below.
 - Subscribe to library updates.
 
 ## Sponsors
-The company sponsoring the library is **i2crm**. Development is currently underway with the support of this company.
+Private sale.
 
 ## For example
-CRM systems integration service: amocrm and bitrix24 with TikTok application (https://i2crm.ru/).
+CRM systems integration service.
