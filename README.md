@@ -1,5 +1,9 @@
 # Unofficial TikTok Library
 
+[![Watch the video](https://github.com/merlinssh/TikTok-Library/blob/merlinssh-patch-1/Demo.png)](https://youtu.be/KCLdifLkaEM)
+[Click to watch on YouTube](https://youtu.be/KCLdifLkaEM)
+
+
 Hi all! I am a developer who spends his free time analyzing the algorithms of mobile applications.
 After a long study, TikTok is ready to offer the following developments:
   1. Rent your own signature server (X-Ladon, X-Gorgon, X-Khronos, X-Argus).
