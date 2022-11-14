@@ -9,6 +9,8 @@ After a long study, TikTok is ready to offer the following developments:
   1. Rent your own signature server (X-Ladon, X-Gorgon, X-Khronos, X-Argus).
   2. API of the mobile application implemented in php.
   3. Subscribe to my API. (Using https requests you access my API, then the requests are redirected to the TikTok servers).
+  
+**For check! You can send a request for the android version to sign by mail and in response you will receive 4 key signature fields.**
 
 ## Products
 **TikTok Library** is a product that offers developers a set of ready-made features for working with the TikTok application.
